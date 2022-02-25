@@ -22,9 +22,12 @@ Color combination is the true colore (B4 B3, B2).
 The above data values were streached and exported into 24bit RGB image file so that the color can be seen easily.
 Then, it is exported as raster tile (ZL4-13, tileSize 256).  
 
-- https://ubukawa.github.io/lc08-177025-20220224-tile/lc08_177025_20220224
-- https://ubukawa.github.io/lc08-177025-20220224-tile/lc09_178025_20220223
+- https://ubukawa.github.io/lc08-177025-20220224-tile/lc08_177025_20220224/{z}/{x}/{y}.png
+- https://ubukawa.github.io/lc08-177025-20220224-tile/lc09_178025_20220223/{z}/{x}/{y}.png
 
-# Copyright of the Landsat 9 Imagery
+# sample map
+https://ubukawa.github.io/lc08-177025-20220224-tile/maps/map.html
+
+# Copyright of the Landsat Imagery
 Landsat image courtesy of the U.S. Geological Survey  
 https://www.usgs.gov/centers/eros/data-citation
