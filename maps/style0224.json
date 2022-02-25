@@ -1,7 +1,7 @@
 {
     "version":8,
 "sources":{
-"r": {"type": "raster","tiles": ["https://ubukawa.github.io/lc08-177025-20220224-tile/lc08_177025_20220224/{z}/{x}/{y}.png"],"attribution": "2022-02-24 Landsat-8 image courtesy of the U.S. Geological Survey","tileSize": 256,"maxzoom": 14},
+"r": {"type": "raster","tiles": ["https://ubukawa.github.io/lc08-177025-20220224-tile/lc08_177025_20220224/{z}/{x}/{y}.png"],"attribution": "2022-02-24 Landsat-8 image courtesy of the U.S. Geological Survey","tileSize": 256,"maxzoom": 13},
 "v": {"type": "vector","tiles": ["https://ubukawa.github.io/VT-test-0614/ne-test/{z}/{x}/{y}.pbf"],"attribution": "NaturalEarth - only for test","minzoom": 0,"maxzoom": 5}
 },
 "sprite": "https://ubukawa.github.io/VT-test-0614/sprite/sprite",
@@ -21,7 +21,7 @@
       "maxzoom": 5,
       "paint": {"fill-color": "rgba(174, 255, 147, 1)"}
     },
-    {"id": "sentinel2","type":"raster","source":"r"},
+    {"id": "landsat8","type":"raster","source":"r"},
     {
       "id": "coastline",
       "type": "line",
