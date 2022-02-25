@@ -8,14 +8,14 @@ And I have also stored a tile from Landsat 9 -Path 178 and row 025, Path 178 and
 * Spatial Resolution: 30 meter
 * Processing level: L1TP
 * Scene Path and Row: 177-025, 177-026
-* Obtained date: 2022-02-24
+* Obtained date: 2022-02-24 (around 08:31 (utc))
 
 # Source data
 * Landsat 9 imagery from U.S.G.S.
 * Spatial Resolution: 30 meter
 * Processing level: L1TP
 * Scene Path and Row: 178-025, 177-026
-* Obtained date: 2022-02-23
+* Obtained date: 2022-02-23 (around 08:25 (utc))
 
 # Raster tile info
 Color combination is the true colore (B4 B3, B2).
